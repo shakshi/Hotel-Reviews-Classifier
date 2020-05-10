@@ -5,3 +5,6 @@ Classifies hotel reviews as positive reviews or negative reviews using Naive Bay
 
 Also classifies them as truthful or fake review. 
 
+# Accuracy 
+85.14 % 
+
