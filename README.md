@@ -5,6 +5,10 @@ Classifies hotel reviews as positive reviews or negative reviews using Naive Bay
 
 Also classifies them as truthful or fake review. 
 
+## Dataset source -
+Truthful reviews - from Trip Advisor & Web  
+Deceptive reviews - from MTurk   
+
 # Results  
 
 deceptive 0.77 0.88 0.82  
